@@ -1,0 +1,459 @@
+/* Base Styles */
+:root {
+    --deep-violet: #46438a;
+    --teal: #5cc0b5;
+    --pale-ivory: #f4e3c9;
+    --light-gray: #f5f5f5;
+    --dark-gray: #333333;
+    --shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    --border-radius: 12px;
+    --dark-background: #1a1a2e;
+    --input-bg: rgba(255, 255, 255, 0.05);
+    --chip-bg: rgba(255, 255, 255, 0.1);
+    --chip-hover-bg: rgba(92, 192, 181, 0.2);
+    --text-light: var(--pale-ivory);
+    --text-placeholder: rgba(244, 227, 201, 0.6);
+    --card-bg: #2a2a4a;
+    --error-color: #ffcc00; /* Yellow for error messages */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: var(--dark-background);
+    color: var(--text-light);
+    line-height: 1.6;
+    display: flex;
+    justify-content: center;
+    /* Align items to the top to better control layout with margins */
+    align-items: flex-start;
+    min-height: 100vh;
+    padding: 3rem 1rem; /* Increased top/bottom padding */
+    position: relative;
+    overflow-x: hidden;
+}
+
+.content-wrapper {
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    /* Reduced margin-top significantly */
+    margin-top: 50px; /* Adjust this value if needed */
+}
+
+/* --- Robot Background Image - Adjusted Position & Size --- */
+#robot-bg {
+    position: absolute;
+    /* Moved up further relative to the body */
+    top: -120px; /* More negative to be higher */
+    left: 50%;
+    transform: translateX(-50%);
+    max-width: 400px; /* Kept size */
+    width: 75%;
+    height: auto;
+    opacity: 0.35;
+    z-index: 0;
+    pointer-events: none;
+    display: block; /* Ensure it's visible initially */
+}
+
+/* Header Styles */
+header {
+    margin-bottom: 2.5rem;
+    /* Add some top margin to space it from the raised robot */
+    margin-top: 80px; /* You might need to adjust this */
+}
+
+h1 {
+    color: white;
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+}
+
+/* --- Message Area Styling (for loading/errors) --- */
+#message-area {
+    display: none;
+    margin: 1.5rem auto;
+    padding: 1rem 1.5rem;
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: var(--border-radius);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    max-width: 600px;
+}
+#message-area .error-message {
+    color: var(--error-color);
+    font-weight: 500;
+    line-height: 1.4; /* Improve readability */
+}
+#message-area .error-details {
+    font-size: 0.8em;
+    color: var(--pale-ivory);
+    opacity: 0.7;
+    margin-top: 0.5rem;
+}
+
+
+/* --- Input Section Styles --- */
+.input-section {
+    display: block;
+    margin-bottom: 2rem;
+}
+
+.input-section h2 {
+   display: none;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+textarea#task-input {
+    width: 100%;
+    min-height: 80px;
+    padding: 1.5rem;
+    background-color: var(--input-bg);
+    border: 2px solid var(--teal);
+    border-radius: var(--border-radius);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    color: var(--text-light);
+    resize: vertical;
+    box-shadow: 0 0 15px rgba(92, 192, 181, 0.4);
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+textarea#task-input:focus {
+    outline: none;
+    border-color: #7cfadc;
+    box-shadow: 0 0 25px rgba(92, 192, 181, 0.7);
+}
+
+textarea#task-input::placeholder {
+    color: var(--text-placeholder);
+    font-style: italic;
+}
+
+button#analyze-btn {
+    display: inline-block;
+    background-color: var(--teal);
+    color: white;
+    border: none;
+    border-radius: var(--border-radius);
+    padding: 0.8rem 2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s, opacity 0.3s;
+    align-self: center;
+    box-shadow: var(--shadow);
+    margin-top: 0.5rem;
+}
+
+button#analyze-btn:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+    opacity: 0.6;
+    color: #666666;
+}
+
+
+button#analyze-btn:not(:disabled):hover {
+    background-color: #4aa89e;
+    transform: translateY(-2px);
+}
+
+button#analyze-btn:not(:disabled):active {
+    transform: translateY(0px);
+}
+
+
+/* Suggested Prompts Styles */
+.suggested-prompts {
+    margin-top: 1rem;
+}
+
+.suggested-prompts p {
+    display: none;
+}
+
+.prompt-chips {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.8rem;
+}
+
+.prompt-chip {
+    background-color: var(--chip-bg);
+    color: var(--text-light);
+    padding: 0.6rem 1.2rem;
+    border: 1px solid var(--teal);
+    border-radius: 8px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.prompt-chip:hover {
+    background-color: var(--chip-hover-bg);
+    border-color: #7cfadc;
+    color: white;
+}
+
+
+/* --- Results Section Styles --- */
+.results-section {
+    display: none; /* Hide initially */
+    width: 100%;
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.original-task-display {
+    width: 100%;
+    min-height: 80px;
+    padding: 1.5rem;
+    background-color: var(--input-bg);
+    border: 2px solid var(--teal);
+    border-radius: var(--border-radius);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    color: var(--text-light);
+    margin-bottom: 2rem;
+    display: inline-block;
+    text-align: left;
+    max-width: 100%;
+    word-wrap: break-word;
+}
+
+.automatable-score-display {
+    background-color: var(--teal);
+    color: white;
+    padding: 1.5rem 2rem;
+    border-radius: var(--border-radius);
+    display: inline-block;
+    margin-bottom: 1.5rem;
+    min-width: 200px;
+    box-shadow: var(--shadow);
+}
+
+.score-value-display {
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.score-label-display {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-top: 0.25rem;
+}
+
+.insight-display {
+    font-size: 1.1rem;
+    margin-bottom: 3rem;
+    color: var(--pale-ivory);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.results-tools-heading {
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 2rem;
+}
+
+.tools-container-display {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(300px, 100%), 1fr));
+    gap: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.tool-card-display {
+    background-color: var(--card-bg);
+    border-radius: var(--border-radius);
+    padding: 1.5rem;
+    text-align: left;
+    border: 1px solid rgba(92, 192, 181, 0.3);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+}
+
+.tool-card-display:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(92, 192, 181, 0.2);
+}
+
+.tool-card-link {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    height: 100%;
+}
+
+
+.tool-name-display {
+    color: var(--teal);
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin-bottom: 0.8rem;
+}
+
+.tool-description-display {
+    font-size: 0.95rem;
+    color: var(--text-light);
+    margin-bottom: 1rem;
+    opacity: 0.9;
+    flex-grow: 1;
+}
+
+.tool-keywords-display {
+    font-size: 0.85rem;
+    color: var(--pale-ivory);
+    opacity: 0.7;
+    word-spacing: 0.5em;
+    margin-top: auto;
+}
+
+.no-tools-message {
+    background-color: var(--card-bg);
+    padding: 1.5rem;
+    border-radius: var(--border-radius);
+    color: var(--pale-ivory);
+    opacity: 0.8;
+    margin-bottom: 3rem;
+}
+
+.search-again-btn {
+    display: inline-block;
+    background-color: transparent;
+    color: var(--teal);
+    border: 2px solid var(--teal);
+    border-radius: var(--border-radius);
+    padding: 0.7rem 1.8rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, transform 0.2s;
+}
+
+.search-again-btn:hover {
+    background-color: var(--chip-hover-bg);
+    color: white;
+    transform: translateY(-2px);
+}
+
+.search-again-btn:active {
+    transform: translateY(0px);
+}
+
+/* --- Footer Styles (Still Hidden) --- */
+footer {
+    display: none;
+}
+
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .content-wrapper {
+        margin-top: 40px; /* Adjust layout */
+    }
+    #robot-bg {
+        top: -100px; /* Adjust layout */
+        max-width: 300px;
+        opacity: 0.3;
+    }
+    header {
+        margin-top: 60px; /* Adjust */
+    }
+    h1 {
+        font-size: 2.5rem;
+    }
+    textarea#task-input, .original-task-display {
+        font-size: 1rem;
+        padding: 1rem;
+        min-height: 70px;
+    }
+    /* ... other responsive styles remain the same ... */
+     .automatable-score-display {
+        min-width: 180px;
+        padding: 1.2rem 1.5rem;
+    }
+    .score-value-display {
+        font-size: 2.5rem;
+    }
+    .score-label-display {
+        font-size: 0.9rem;
+    }
+    .insight-display {
+        font-size: 1rem;
+    }
+    .results-tools-heading {
+        font-size: 1.5rem;
+    }
+    .tool-name-display {
+        font-size: 1.2rem;
+    }
+    #message-area {
+        padding: 0.8rem 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+     .content-wrapper {
+        margin-top: 30px; /* Adjust layout */
+    }
+    #robot-bg {
+        top: -80px; /* Adjust layout */
+        max-width: 250px;
+        opacity: 0.25;
+    }
+     header {
+        margin-top: 50px; /* Adjust */
+    }
+    body {
+        padding: 1rem 0.5rem;
+        align-items: flex-start;
+    }
+    h1 {
+        font-size: 2rem;
+    }
+    .tools-container-display {
+        grid-template-columns: 1fr;
+    }
+    .automatable-score-display {
+        min-width: 150px;
+        padding: 1rem;
+    }
+     .score-value-display {
+        font-size: 2.2rem;
+    }
+    /* ... other responsive styles remain the same ... */
+
+}

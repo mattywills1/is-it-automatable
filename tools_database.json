@@ -1,0 +1,1290 @@
+[
+  {
+    "name": "Adobe Firefly 3",
+    "category": ["Art generation"],
+    "description": "Transforming text into stunning images with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "AgentRPC",
+    "category": ["Generative Code"],
+    "description": "Connect AI agents with remote functions for multi-language automation.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "AI Color Match",
+    "category": ["Image Improvement"],
+    "description": "Transfer color styles between images or videos.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "AI Renamer",
+    "category": ["Productivity"],
+    "description": "Generate descriptive file names using AI analysis of content.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "AI PDF Summarizer by PDF Guru",
+    "category": ["Summarizer"],
+    "description": "Summarizes PDFs swiftly, extracting key insights instantly.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "AIPornChat.Online",
+    "category": ["Dating & Relationships"],
+    "description": "NSFW sexting with customizable AI companions.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Algolia",
+    "category": ["Search"],
+    "description": "Leading search and discovery API for building fast, relevant search experiences.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Andi",
+    "category": ["Research"],
+    "description": "Privacy-focused AI search assistant providing conversational answers.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Any.do",
+    "category": ["Productivity"],
+    "description": "Easily manage tasks, projects, and daily activities with an intuitive planner.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "ArchiGen",
+    "category": ["Generative Art"],
+    "description": "Create 3D models and architectural design concepts with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Artisk AI",
+    "category": ["Generative Art"],
+    "description": "Platform to create logos and brand designs using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Asana",
+    "category": ["Productivity"],
+    "description": "Work management platform to connect and streamline your team’s tasks and goals.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Atlas",
+    "category": ["Education"],
+    "description": "AI-powered school assistant for students to boost learning and grades.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "AudioX",
+    "category": ["Music"],
+    "description": "Generate audio from text, image, and video inputs.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Bardeen",
+    "category": ["Automation"],
+    "description": "Automate manual tasks with ease via no-code workflows.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Benchmark Email",
+    "category": ["Marketing"],
+    "description": "Simple email marketing platform for campaigns and newsletters.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "BetterStudio",
+    "category": ["Image Improvement"],
+    "description": "Generate fashion product photos for Shopify using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Bit.ai",
+    "category": ["Design"],
+    "description": "Smart document collaboration platform for teams.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Blue Willow",
+    "category": ["Art generation"],
+    "description": "Free AI artwork generator.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Brand24",
+    "category": ["Marketing"],
+    "description": "Monitor online mentions and manage your brand's reputation with real-time insights.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "BrandLift",
+    "category": ["Marketing"],
+    "description": "Shopify app to boost e-commerce performance with revenue-optimizing tools.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Bravo Studio",
+    "category": ["Productivity"],
+    "description": "No-code tool to convert Figma designs into functional mobile apps.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Buffer",
+    "category": ["Social Media"],
+    "description": "Simplified social media management platform for scheduling and analytics.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "ChatPDF",
+    "category": ["Chat"],
+    "description": "AI PDF assistant for quickly analyzing, querying, and summarizing PDFs.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "ClawCloud Run",
+    "category": ["Generative Code"],
+    "description": "Cloud platform for coding, deployment, and management using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "ClipChamp",
+    "category": ["Video"],
+    "description": "Quick and easy video editor with AI features.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Clockwise",
+    "category": ["Productivity"],
+    "description": "AI-powered time management calendar for smart scheduling.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Clueso AI",
+    "category": ["Video"],
+    "description": "Convert screen recordings into instructional content automatically.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "CodeGuide",
+    "category": ["Productivity"],
+    "description": "Generate project documentation for coding projects using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Codespell.ai",
+    "category": ["Generative Code"],
+    "description": "Platform for software development with AI coding assistance.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Cobbai",
+    "category": ["Productivity"],
+    "description": "Manage customer service interactions and support inquiries across multiple channels with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Competitor Analyser",
+    "category": ["Marketing"],
+    "description": "Comprehensive competitive pricing analysis tool powered by AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Copy.ai",
+    "category": ["Writing"],
+    "description": "Unleash your creativity with AI-powered writing tools.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "CRO Benchmark",
+    "category": ["Marketing"],
+    "description": "E-commerce website audit tool for conversion rate optimization and UX.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Cradl AI",
+    "category": ["Productivity"],
+    "description": "No-code platform to extract data and process documents using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Crreo.ai",
+    "category": ["Content creation"],
+    "description": "Empowering creators with AI-driven content creation tools.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "CustomStamps AI",
+    "category": ["Design"],
+    "description": "Transform your ideas into personalized ink stamps with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "DALL·E 3",
+    "category": ["Art generation"],
+    "description": "Transform text into stunning images with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Dante AI",
+    "category": ["Chat"],
+    "description": "No-code tool to create customizable AI chatbots, avatars, and voice agents.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Databar.ai",
+    "category": ["Research"],
+    "description": "No-code platform to collect, enrich, and analyze data from multiple sources via a spreadsheet interface.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Decory",
+    "category": ["Inspiration"],
+    "description": "iOS app to visualize and redesign rooms from photos using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "DeepSeek",
+    "category": ["AI AGENTS"],
+    "description": "Advancing AI with open-source large language models.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "DreamActor-M1",
+    "category": ["Generative Video"],
+    "description": "Animate static portraits with synchronized facial expressions using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "DreamStudio",
+    "category": ["Art generation"],
+    "description": "Create stunning visuals with AI-driven creativity.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "DistroKid",
+    "category": ["Music"],
+    "description": "The easiest way for musicians to get their music into streaming services (with AI enhancements).",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Docci.ai",
+    "category": ["Productivity"],
+    "description": "Extract structured data from invoices and documents with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Echo Jockey",
+    "category": ["Podcasting"],
+    "description": "Automate podcast guest booking with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Eddie AI",
+    "category": ["Video Editing"],
+    "description": "Software for video editing with AI-assisted rough cuts and integration into workflows.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Enso",
+    "category": ["Productivity"],
+    "description": "Platform to access AI agents for automating various business tasks.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Excel Whisper",
+    "category": ["Productivity"],
+    "description": "Excel mentor providing personalized assistance and solutions with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "ExcelMatic",
+    "category": ["Productivity"],
+    "description": "AI-powered Excel assistant to use plain English commands instead of formulas.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Exists",
+    "category": ["Games"],
+    "description": "Create custom multiplayer games effortlessly using advanced AI technology.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Expify.ai",
+    "category": ["Business"],
+    "description": "The largest AI tools directory on the planet.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Fellow AI",
+    "category": ["Productivity"],
+    "description": "Meeting assistant and note taker to improve team efficiency.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Fenestra",
+    "category": ["Generative Art"],
+    "description": "Turn sketches and models into presentation visuals using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Forvio",
+    "category": ["Marketing"],
+    "description": "Marketing analytics platform combining MMM and MTA to optimize strategies and ROI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Generor",
+    "category": ["Content creation"],
+    "description": "All-in-one AI content generation platform for text, images, and more.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "GenColor.ai",
+    "category": ["Art generation"],
+    "description": "Free online AI coloring pages generator from photos and text prompts.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "GitHub Spark",
+    "category": ["Development"],
+    "description": "New way to visualize code activity and project contributions (GitHub AI).",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Gong",
+    "category": ["Sales"],
+    "description": "Unleash reality to accelerate your revenue with AI-driven insights.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "GlobalGPT",
+    "category": ["AI AGENTS"],
+    "description": "All-in-one AI service hub to create anything with more than 100 agent models.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Grok 3",
+    "category": ["Chat"],
+    "description": "Multifunctional chatbot for content creation, automation, and data analysis.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Grok by xAI",
+    "category": ["Productivity"],
+    "description": "AI assistant for scheduling meetings seamlessly.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Guse",
+    "category": ["Productivity"],
+    "description": "Manage workflows and spreadsheets with AI automation.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Gradescope",
+    "category": ["Education"],
+    "description": "Streamlined grading and assessment platform for educators (with AI assistance).",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Grammarly",
+    "category": ["Writing"],
+    "description": "Your writing, at its best – AI-assisted grammar and style checking.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Hemingway Editor",
+    "category": ["Writing"],
+    "description": "Write bold, clear, and concise prose with the Hemingway Editor.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Hera",
+    "category": ["Generative Video"],
+    "description": "Create motion graphic animations from text prompts using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "HideMyData",
+    "category": ["Productivity"],
+    "description": "Privacy tool to mask personal information online using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Hoox",
+    "category": ["Generative Video"],
+    "description": "Create videos for social media and marketing with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Hostinger Horizons",
+    "category": ["Generative Code"],
+    "description": "Create and publish web apps without coding, using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Hoppy Copy",
+    "category": ["Marketing"],
+    "description": "AI-powered email and marketing copywriting platform.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "HubSpot",
+    "category": ["Business"],
+    "description": "Grow better with HubSpot's CRM platform (now with AI integrations).",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Imagerr.AI",
+    "category": ["Generative Art"],
+    "description": "Generate image metadata like ALT text and captions using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "ImageMover",
+    "category": ["Video"],
+    "description": "Transform images and scripts into engaging videos with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "InVideo",
+    "category": ["Video Editing", "Generative Video"],
+    "description": "Turn your ideas into full-length videos using simple text prompts.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Influencity",
+    "category": ["Marketing"],
+    "description": "AI-powered influencer marketing platform for discovering and managing campaigns.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "JobQuest.ai",
+    "category": ["Productivity"],
+    "description": "Create resumes and match job applications with AI guidance.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Karax.ai",
+    "category": ["Productivity"],
+    "description": "AI meeting assistant to transcribe conversations and extract key information.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Keyla AI",
+    "category": ["Generative Video"],
+    "description": "Generate customizable UGC-style videos with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Kolena",
+    "category": ["Productivity"],
+    "description": "Platform for testing, evaluation, and improvement of machine learning models.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Komiko",
+    "category": ["Art generation"],
+    "description": "AI-powered platform for creating comics, manga, and animations.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Kwizie",
+    "category": ["Productivity"],
+    "description": "Create interactive quizzes from video content using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "LALAL.AI",
+    "category": ["Audio"],
+    "description": "AI-powered vocal remover and music source separation service.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Leania.ai",
+    "category": ["Productivity"],
+    "description": "Identify inefficiencies and suggest AI automations for processes.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Leena AI",
+    "category": ["Human Resources"],
+    "description": "Enterprise-grade AI-powered employee experience platform.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Letterly",
+    "category": ["Text-To-Speech"],
+    "description": "Transcribe speech into text with rewriting options in multiple languages.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Lexica",
+    "category": ["Art generation"],
+    "description": "Discover, generate, and explore AI-generated art.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Life Assistants Directory",
+    "category": ["Life Assistants"],
+    "description": "Curated list of AI tools for personal life assistance tasks.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Lose Fat With AI",
+    "category": ["Fitness"],
+    "description": "Achieve your dream body with AI-guided fitness and nutrition.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Luma AI",
+    "category": ["Art generation"],
+    "description": "Building multimodal AI to expand human imagination and capabilities.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Manus AI",
+    "category": ["Productivity"],
+    "description": "Autonomous AI agent to plan and execute complex tasks across multiple domains.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Masterpiece Studio",
+    "category": ["Art generation"],
+    "description": "Complete VR 3D creative suite for indie creators, powered by AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Mem",
+    "category": ["Productivity"],
+    "description": "The AI notes app that keeps you organized with intelligent suggestions.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "MEGA SEO",
+    "category": ["SEO"],
+    "description": "Your autonomous SEO team that delivers clicks faster using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Metatable.ai",
+    "category": ["Generative Code"],
+    "description": "Platform for software development from code generation to deployment using text prompts.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "MidJourney",
+    "category": ["Art generation"],
+    "description": "AI-powered creativity for stunning visual art.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "MIDI Agent",
+    "category": ["Music"],
+    "description": "DAW plugin to generate and manipulate MIDI data with AI in music production.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "MiriCanvas",
+    "category": ["Generative Art"],
+    "description": "Design tool for creating visual content with templates and AI assistance.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Microsoft Bing Image Creator",
+    "category": ["Image generation"],
+    "description": "Create images from words with AI (by Microsoft Bing).",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Microsoft Copilot",
+    "category": ["Productivity"],
+    "description": "AI-powered assistant for productivity and creativity within Microsoft 365.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Microsoft Power BI",
+    "category": ["Data analysis"],
+    "description": "Turn data into powerful insights with Microsoft's BI and AI-driven visualizations.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Mochii AI",
+    "category": ["Productivity"],
+    "description": "Summarize pages, analyze documents, and assist research with an AI assistant.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Motion",
+    "category": ["Productivity"],
+    "description": "The #1 AI calendar for intelligent scheduling.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "NeuraVid",
+    "category": ["Video Editing"],
+    "description": "Analyze videos to extract insights with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Next.js",
+    "category": ["Development"],
+    "description": "React framework with AI-optimized features for fast web applications.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Notion AI",
+    "category": ["Writing"],
+    "description": "AI-powered writing and productivity assistant built into Notion.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Octoparse AI",
+    "category": ["Automation"],
+    "description": "AI-powered web scraping for data extraction and automation.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "OctoComics",
+    "category": ["Art generation"],
+    "description": "AI-powered comic creation platform.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Omind",
+    "category": ["Marketing"],
+    "description": "Platform for customer experience and business operations with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Originality.ai",
+    "category": ["AI Detection"],
+    "description": "AI-powered plagiarism detection and AI content detection tool.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "OurDream AI",
+    "category": ["Social Networks"],
+    "description": "Engage in meaningful conversations with AI companions.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Owlift",
+    "category": ["Assistive Technology"],
+    "description": "Advanced IoT and AI-powered lifting equipment monitoring.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "PI AI (Inflection Pi)",
+    "category": ["Chat"],
+    "description": "Your personal AI – always supportive, always smart.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Platus",
+    "category": ["Productivity"],
+    "description": "Automate legal processes for businesses with AI-driven workflows.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Pomodoro Tools",
+    "category": ["Productivity"],
+    "description": "Minimalist Pomodoro timer to boost productivity, with AI insights.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Postwhale",
+    "category": ["Copywriting"],
+    "description": "Research, create, and publish SEO content on Webflow with AI assistance.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Powerdrill",
+    "category": ["Productivity"],
+    "description": "Data analysis and visualization using natural language queries.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Presentations.ai",
+    "category": ["Productivity"],
+    "description": "Create presentations from user ideas using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Privatemode AI",
+    "category": ["AI Useful"],
+    "description": "The always-encrypted AI service for secure data processing.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "PromptHero",
+    "category": ["Prompts"],
+    "description": "Discover, create, and share AI prompts.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Promptimize AI",
+    "category": ["Prompt Guides"],
+    "description": "Create, test, and refine prompts for large language models.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "PXZ.AI",
+    "category": ["Generative Art"],
+    "description": "Transform text, image, or video inputs into professional visual content instantly without technical expertise.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Publer",
+    "category": ["Social Media"],
+    "description": "Social media management and automation made simple, with AI scheduling.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Quizlet",
+    "category": ["Education"],
+    "description": "Ultimate study tool for learning with flashcards, quizzes, and games (now with AI features).",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Reclaim",
+    "category": ["Productivity"],
+    "description": "Smart scheduling app for teams, using AI to optimize calendars.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "ReconXi",
+    "category": ["Finance"],
+    "description": "Reconcile bank statements with company ledgers using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Reeleasy",
+    "category": ["Social Media"],
+    "description": "AI-powered Instagram Reel generator.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Remio",
+    "category": ["Productivity"],
+    "description": "Organize and synthesize personal knowledge for information management and retrieval with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Reply.io",
+    "category": ["Sales"],
+    "description": "AI-powered sales engagement platform for automating multichannel outreach.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "RetroTeam",
+    "category": ["Productivity"],
+    "description": "Automate feedback grouping and generate retrospective summaries with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Right Click Prompt",
+    "category": ["Productivity"],
+    "description": "Chrome extension for managing and reusing AI prompts via right-click menu.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Runware",
+    "category": ["Generative Art"],
+    "description": "Create images and videos using text input via AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Runway",
+    "category": ["Art generation"],
+    "description": "Creative tools powered by artificial intelligence for media creation.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "SAS",
+    "category": ["Data analysis"],
+    "description": "Advanced analytics and AI solutions to transform data into insight.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "ScribeFast",
+    "category": ["Image Scanning"],
+    "description": "Convert handwritten PDF notes into LaTeX and Markdown with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Scribble Diffusion",
+    "category": ["Art generation"],
+    "description": "Transform your sketches into refined images using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "SelfCAD Magic Tools",
+    "category": ["Design"],
+    "description": "AI-driven tools within SelfCAD for 3D modeling and design automation.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Sesame (Voice Assistant)",
+    "category": ["Chat"],
+    "description": "AI voice assistant with emotionally intelligent, context-aware conversations.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Shortwave",
+    "category": ["E-mail"],
+    "description": "AI-native email designed to streamline team collaboration.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Sitehunt",
+    "category": ["Research"],
+    "description": "Platform for property management and site selection (with AI insights).",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Sleek",
+    "category": ["Generative Code"],
+    "description": "Generate and export landing page code from prompts with an AI assistant.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Social Blade",
+    "category": ["Social Media"],
+    "description": "Real-time statistics for content creators and brands.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Soul Machines",
+    "category": ["Avatar"],
+    "description": "Create digital humans for interactive customer engagement.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Sparkle",
+    "category": ["Productivity"],
+    "description": "Automatically organize Mac files without reading their contents, using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Spotify Canvas Generator",
+    "category": ["Art generation"],
+    "description": "AI-powered Spotify Canvas creator.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "StudyChat",
+    "category": ["Education"],
+    "description": "Instant quizzes, mindmaps, and voice tutoring to ace your exams with ease (AI-driven).",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Submarine Player",
+    "category": ["Productivity"],
+    "description": "MacOS app to generate subtitles instantly while watching any video, using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Supametas.AI",
+    "category": ["Productivity"],
+    "description": "Transform unstructured data into structured formats for AI models and knowledge bases.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Surf.new",
+    "category": ["Aggregators"],
+    "description": "Browse the web and curate personalized content with an AI assistant.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "TableSprint",
+    "category": ["Generative Code"],
+    "description": "No-code platform for creating custom business applications using an Excel-like interface with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Tana",
+    "category": ["Productivity"],
+    "description": "Knowledge management tool integrating note-taking, task management, and information organization (with AI).",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Taplio",
+    "category": ["Social Media"],
+    "description": "AI-powered LinkedIn content creation and scheduling platform.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Tavus",
+    "category": ["Generative Video"],
+    "description": "Create personalized video conversations using digital twin technology.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Teal",
+    "category": ["Career"],
+    "description": "AI resume builder with personalized guidance and optimization tools.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "TheySaid",
+    "category": ["Research"],
+    "description": "Conduct surveys, analyze responses, and generate insights with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Thumbnails Labs",
+    "category": ["Social Media"],
+    "description": "Generate, preview, and test YouTube video thumbnails with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Topaz Labs",
+    "category": ["Art generation"],
+    "description": "Advanced AI-powered photo and video editing software.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Tome",
+    "category": ["Sales"],
+    "description": "AI assistant for sales, designed to amplify outreach and account targeting.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Tonkean",
+    "category": ["Automation"],
+    "description": "Adaptive business operations platform for no-code process automation.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Transifex",
+    "category": ["Translation"],
+    "description": "Localization and translation management platform with AI assistance.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Twin AI",
+    "category": ["Productivity"],
+    "description": "Automate workflows, analyze data, and generate content with an AI assistant.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Twirl AI",
+    "category": ["Writing"],
+    "description": "AI email and document summarizer integrated into everyday workflow.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "TypeSmith",
+    "category": ["Marketing"],
+    "description": "Generate and optimize written content using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "TypingMind",
+    "category": ["Writing"],
+    "description": "AI assistant to help you write faster and more clearly.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Undetectable AI",
+    "category": ["Writing"],
+    "description": "Make AI-generated content indistinguishable from human writing.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "VAIZ",
+    "category": ["Productivity"],
+    "description": "Platform that centralizes project management, collaboration, and productivity tools for teams (with AI).",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Vectal",
+    "category": ["Productivity"],
+    "description": "Organize tasks, track goals, and manage workflows with an AI assistant.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Verex",
+    "category": ["Productivity"],
+    "description": "Automate QA testing and bug reporting workflows with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Victoria",
+    "category": ["Productivity"],
+    "description": "Build workflows, manage projects, and schedule meetings with an AI assistant.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "VideoFaceSwap",
+    "category": ["Face Swap & DeepFake"],
+    "description": "AI-powered video face swapping made easy.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "VideoPlus.ai",
+    "category": ["Generative Video"],
+    "description": "Create videos from text or image inputs with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Webacus",
+    "category": ["Development"],
+    "description": "Swiss-army knife for web developers, featuring AI tools for coding and debugging.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "WebCrawler API",
+    "category": ["Productivity"],
+    "description": "Tool and API to extract data from websites at scale using AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "WhisperTranscribe",
+    "category": ["Audio Transcription"],
+    "description": "AI-powered platform for accurate transcription services and content generation from audio.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Windy",
+    "category": ["Business"],
+    "description": "Your AI manager assistant for business tasks and operations.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "WorkFlawless",
+    "category": ["Productivity"],
+    "description": "Manage workflows, SOPs, and team collaboration with an AI assistant.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Worxmate",
+    "category": ["Productivity"],
+    "description": "OKR and performance management tool for goal alignment and productivity, powered by AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Wordtune",
+    "category": ["Writing"],
+    "description": "Your personal AI writing assistant for rephrasing and refining text.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Writer",
+    "category": ["Writing"],
+    "description": "AI writing assistant for teams, ensuring consistent tone and style.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "YouChat",
+    "category": ["Search"],
+    "description": "AI-powered search engine that respects your privacy and provides conversational answers.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "Zapier Central",
+    "category": ["Productivity"],
+    "description": "Hub for workflow automation and integration insights with Zapier + AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "ZapVid",
+    "category": ["Video"],
+    "description": "Create stunning faceless videos automatically with AI.",
+    "use_case": "",
+    "url": ""
+  },
+  {
+    "name": "ZenCall",
+    "category": ["Chat"],
+    "description": "Simplify your calls with AI-powered virtual assistance.",
+    "use_case": "",
+    "url": ""
+  }
+]

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Title updated here -->
+    <title>Is it Automat-able?</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome needed later for icons in results -->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"> -->
+</head>
+<body>
+    <div class="content-wrapper"> <!-- This wrapper helps center content -->
+
+        <!-- Robot background image added here -->
+        <img id="robot-bg" src="assets/robot.png" alt="Background robot graphic">
+
+        <!-- Container class might be adjusted or removed later if not needed -->
+        <div class="container">
+            <header>
+                <!-- Title updated here -->
+                <h1>Is it Automat-able?</h1>
+                <p class="subtitle">Discover AI tools to automate your tasks</p>
+            </header>
+
+            <main>
+                <section class="input-section">
+                    <!-- H2 removed from display via CSS for initial screen -->
+                    <h2>Describe your task</h2>
+                    <div class="input-container">
+                        <!-- Placeholder text updated to match target image -->
+                        <textarea id="task-input" placeholder="e.g. Send onboarding emails to new clients"></textarea>
+                        <!-- Button is now expected to be visible via CSS -->
+                        <button id="analyze-btn">Analyze Task</button>
+                    </div>
+                    <div class="suggested-prompts">
+                        <!-- P tag removed from display via CSS for initial screen -->
+                        <p>Try these examples:</p>
+                        <div class="prompt-chips">
+                            <!-- Updated chip text to match target image -->
+                            <span class="prompt-chip" data-prompt="Summarize client calls">Summarize client calls</span>
+                            <span class="prompt-chip" data-prompt="Schedule meetings">Schedule meetings</span>
+                            <span class="prompt-chip" data-prompt="Write product descriptions">Write product descriptions</span>
+                            <!-- Removed the social media one to match target image count -->
+                            <!-- <span class="prompt-chip" data-prompt="Create social media content for my business">Create social media content</span> -->
+                        </div>
+                    </div>
+                </section>
+
+                <section class="results-section" id="results-section">
+                    <!-- Results will be displayed here via JavaScript -->
+                    <!-- Currently hidden via CSS -->
+                </section>
+            </main>
+
+            <footer>
+                <!-- Currently hidden via CSS -->
+                <p>Data sourced from <a href="https://www.futuretools.io/" target="_blank">FutureTools.io</a> and <a href="https://theresanaiforthat.com/" target="_blank">There's An AI For That</a></p>
+                <p>© 2025 Is This Automatable?</p>
+            </footer>
+        </div> <!-- Closing container -->
+
+    </div> <!-- Closing content-wrapper -->
+
+    <script src="script.js"></script>
+</body>
+</html>
